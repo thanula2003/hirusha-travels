@@ -82,7 +82,6 @@ Add a file named `music.mp3` next to `index.html`, or change `SRC` and `VOL` at 
 - **The booking form does not send data.** `script.js` only shows a confirmation message and resets the form. Connect it to a form backend (for example Formspree or Web3Forms, which also needs `name` attributes on the inputs) before relying on it for enquiries.
 - **Footer social links** are placeholders (`href="#"`).
 - **Images are hotlinked** from Unsplash. For production, consider downloading the photos you use (check their licence) and serving them locally.
-- **`music.mp3` is not included.** Use a track you have the rights to.
 
 ## Deployment
 
